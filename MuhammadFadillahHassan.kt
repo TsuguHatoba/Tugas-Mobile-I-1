@@ -14,16 +14,16 @@ fun kenalan(){
 }
 
 fun ip(){
-    println("IP semesterku yang lalu adalah $ip")
+    println("IP semesterku yang lalu adalah $ip\n")
 }
 
 fun relate(){
-    println("Di umurku yang $umur ini, mungkin aku gapernah berpikir di masa depan aku mau jadi apa, " +
-            "hanya saja saya punya pasangan dengan inisial $crush yang selalu membuatku berpikir aku harus produktif:)")
+    println("Di umurku yang $umur ini, mungkin aku gapernah berpikir di masa depan aku mau jadi apa\n, " +
+            "hanya saja saya punya pasangan dengan inisial $crush yang selalu membuatku berpikir aku harus produktif:)\n")
 }
 
 fun hobi(){
-    println("Hobi? Mungkin kalau bisa dibilang hobiku adalah $hobi terus-terusan")
+    println("Hobi? Mungkin kalau bisa dibilang hobiku adalah $hobi terus-terusan \n")
 }
 
 fun sifat(){
